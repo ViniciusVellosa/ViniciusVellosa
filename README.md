@@ -1,4 +1,7 @@
-## Hi!!!👋 My Name Is Vinicius G. Vellosa
+## Hi!!!👋 My Name Is Vinicius G. Vellosa!   
+
+[226190894-18e959ba-d458-4a94-ac44-790190f2a947](C:/Users/viguv/OneDrive/Imagens/Capturas de tela/Imagens/assets/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif)
+
 **Welcome to my GitHub Profile🧑🏻‍💻**
 
 ## English README:
