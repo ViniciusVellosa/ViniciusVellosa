@@ -22,7 +22,7 @@
 
 * Bachelor of Computer Engineering
 * UNIARA (University of Araraquara) - Araraquara, São Paulo
-* Expected Graduation: December 2027
+* Expected Graduation: December 2026
 
 
 ## Languages:
@@ -89,7 +89,7 @@ Meu objetivo é contribuir para os objetivos da empresa enquanto aprimoro meu de
 
 * Bacharelado em Engenharia da Computação
 * UNIARA (Universidade de Araraquara) - Araraquara, São Paulo
-* Previsão de Conclusão: Dezembro de 2027
+* Previsão de Conclusão: Dezembro de 2026
 
 
 ## Idiomas:
