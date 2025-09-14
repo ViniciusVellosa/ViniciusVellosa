@@ -6,7 +6,7 @@
 
 - 🎓 Cursando o 4º ano de **Engenharia da Computação** na UNIARA.
 - 🌱 Atualmente, estou aprofundando meus conhecimentos em **Back-end**, **Machine Learning** e **Desenvolvimento Web**.
-- 💡 Tenho interesse em oportunidades de estágio nas áreas de Desenvolvimento de Software, Ciência de Dados ou Segurança da Informação.
+- 💡 Tenho interesse em oportunidades de estágio nas áreas de Desenvolvimento de Software, Ciência de Dados ou Segurança da Informação; além de áreal relacionadas a Engenharia da Computação.
 - 📫 Como me encontrar:
 
     <a href="https://www.linkedin.com/in/viniciusvellosa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
