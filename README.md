@@ -5,7 +5,7 @@
 </p>
 
 - 🎓 Cursando o 4º ano de **Engenharia da Computação** na UNIARA.
-- 🌱 Atualmente, estou aprofundando meus conhecimentos em **Back-end**, **Machine Learning** e **Desenvolvimento Web**.
+- 🌱 Atualmente, estou aprofundando meus conhecimentos em **Back-end**, **Machine Learning**, **Desenvolvimento Web** e **Data Science**.
 - 💡 Tenho interesse em oportunidades de estágio nas áreas de Desenvolvimento de Software, Ciência de Dados ou Segurança da Informação; além de áreas relacionadas a Engenharia da Computação.
 - 📫 Como me encontrar:
 
@@ -17,7 +17,7 @@
 ### 🛠️ Tecnologias e Ferramentas
 
 <p align="left">
-  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+  <a href="#"><img alt="Python Avançado" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
   <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>
   <a href="#"><img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a>
   <a href="#"><img alt="VSCode" src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"></a>
