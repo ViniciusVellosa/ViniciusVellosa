@@ -4,9 +4,9 @@
   Sou um estudante de Engenharia da Computação apaixonado por tecnologia, programação e pela forma como a Inteligência Artificial pode solucionar problemas complexos.
 </p>
 
-- 🎓 Cursando o 4º ano de **Engenharia da Computação** na UNIARA.
+- 🎓 Cursando o 5º ano de **Engenharia da Computação** na UNIARA.
 - 🌱 Atualmente, estou aprofundando meus conhecimentos em **Back-end**, **Machine Learning**, **Desenvolvimento Web** e **Data Science**.
-- 💡 Tenho interesse em oportunidades de estágio nas áreas de Desenvolvimento de Software, Ciência de Dados ou Segurança da Informação; além de áreas relacionadas a Engenharia da Computação.
+- 💡 Tenho interesse em oportunidades de estágio nas áreas de Desenvolvimento de Software, Ciência de Dados e Machine Learning; além de áreas relacionadas a Engenharia da Computação.
 - 📫 Como me encontrar:
 
     <a href="https://www.linkedin.com/in/viniciusvellosa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
